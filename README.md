@@ -1,1 +1,1 @@
-https://marczuccerberg.github.io/rust-reloaded/
+https://marczuccerberg.github.io/Rust-Reloaded/
